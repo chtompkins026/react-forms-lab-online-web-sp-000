@@ -8,6 +8,8 @@ class TwitterMessage extends React.Component {
       value: '', 
     };
   }
+  
+  hand
 
   render() {
     return (
